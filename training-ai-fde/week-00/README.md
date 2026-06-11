@@ -8,7 +8,7 @@ _Work in progress — push your files here and update this README._
 
 ## Submission
 
-_Link to file / folder / pull request / release tag as specified for this week._
+[_Link to file / folder / pull request / release tag as specified for this week._](https://github.com/qurratu-aini05/training-ai-fde)
 
 ## Notes
 
